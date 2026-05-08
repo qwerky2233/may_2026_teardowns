@@ -73,8 +73,4 @@ Syndrome resampling is a legitimate, theoretically grounded classical post-proce
 | Industrial relevance | 4 | Deployable today on any platform with syndrome logging. The experimental demonstration on real superconducting data makes it immediately actionable. Docked one point because the path to scaling accurate P(s) estimation to distance > 5 codes remains open, limiting near-term relevance to characterization-heavy experiments. |
 | Misinterpretation risk | 4 | The two-orders-of-magnitude headline is almost certain to be stripped of caveats in secondary coverage. The conflation of "threshold increase" with "hardware requirement reduction" is a predictable failure mode given how these results will be communicated to hardware teams and funders. |
 
----
 
-## Verification
-- **Public post / GitHub URL:** *(placeholder — publish teardown to public GitHub repo or equivalent)*
-- **Commit / post date:** 2026-05-08
